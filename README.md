@@ -25,5 +25,4 @@ because of the campaign.
 ## Tech Stack
 Python | Pandas | Scikit-learn | PyTorch/TensorFlow
 
-## Results
-[Add your Qini curve / uplift scores here]
+
